@@ -1,0 +1,45 @@
+.Todos {
+  min-height: 100vh;
+}
+
+.footer {
+  position: relative;
+  bottom: -1.5vh;
+  font-size: 1.2vw;
+  line-height: 7vh;
+}
+
+#textwarn {
+  color: red;
+}
+
+.about_container {
+  min-height: 78vh;
+}
+
+.custom_request {
+  min-height: 78vh;
+}
+
+.mail_us{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 81.7vh;
+}
+.mail_us img{
+  height: 55vh;
+}
+
+.call_us{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 81.7vh;
+}
+
+.call_us img{
+  height: 55vh;
+}
