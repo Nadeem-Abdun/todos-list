@@ -1,5 +1,5 @@
 import React from 'react'
-import CallLogo from '../Components/CallLogo.png'
+import CallLogo from '../Components/call_Logo.png'
 
 export default function CallUs() {
   return (
@@ -9,3 +9,4 @@ export default function CallUs() {
     </div>
   )
 }
+

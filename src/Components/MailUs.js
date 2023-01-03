@@ -1,5 +1,5 @@
 import React from 'react'
-import MailLogo from '../Components/MailLogo.png'
+import MailLogo from '../Components/mail_Logo.png'
 
 export default function MailUs() {
   return (
@@ -9,3 +9,4 @@ export default function MailUs() {
     </div>
   )
 }
+
